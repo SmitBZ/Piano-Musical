@@ -92,11 +92,9 @@ PianoMusial/
 
 ## 🎹 Cómo Usar el Piano
 
-1. Al iniciar, selecciona un **modo de sonido** desde el menú superior.  
-2. Usa el **teclado físico** para tocar notas (configuradas en el listener principal).  
-3. O utiliza el **teclado virtual** en pantalla (MindFusion).  
-4. Cambia el tema visual (oscuro o claro) desde el menú `Vista`.  
-5. Disfruta experimentando con sonidos MIDI de distintos estilos.  
+1. Al iniciar, selecciona un **modo de sonido** desde el menú superior.   
+2. Cambia el tema visual (oscuro o claro) desde el menú `Vista`.  
+3. Disfruta experimentando con sonidos MIDI de distintos estilos.  
 
 ---
 
