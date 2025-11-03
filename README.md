@@ -17,11 +17,9 @@
 
 ## 🖼️ Vista Previa
 
-| Interfaz principal | Teclas del teclado virtual |
-|--------------------|-----------------------------|
-| ![Piano View](docs/images/main-ui.png) | ![Virtual Keyboard](docs/images/keyboard-view.png) |
-
-> *(Agrega tus imágenes en `src/main/resources/images/` y actualiza las rutas según corresponda)*
+| Interfaz principal |
+|--------------------|
+| ![Piano View](src/main/resources/guia/vista.png) |
 
 ---
 
@@ -152,13 +150,6 @@ git checkout -b feature/nueva-funcionalidad
 git commit -m "Agrega nueva funcionalidad de nota visual"
 git push origin feature/nueva-funcionalidad
 ```
-
----
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia **MIT**, lo que permite su uso libre con atribución.  
-Consulta el archivo `LICENSE` para más detalles.
 
 ---
 
