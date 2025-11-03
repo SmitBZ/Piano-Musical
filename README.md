@@ -61,13 +61,6 @@ PianoMusial/
 <dependencies>
     <!-- API MIDI de Java (incluida por defecto en JDK) -->
     
-    <!-- MindFusion Virtual Keyboard -->
-    <dependency>
-        <groupId>com.mindfusion</groupId>
-        <artifactId>virtual-keyboard</artifactId>
-        <version>5.0.3</version>
-    </dependency>
-    
     <!-- (Opcional) Look & Feel moderno -->
     <dependency>
         <groupId>com.formdev</groupId>
