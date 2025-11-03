@@ -119,7 +119,6 @@ sys.close();
 Gestiona la **interfaz gráfica**:
 - Asocia botones (`JButton`) con notas (`MusicaMDI.sonidoEfecto(n)`)  
 - Controla menús de tema y modo  
-- Puede mostrar una ventana auxiliar de guía de teclado  
 
 ---
 
@@ -129,8 +128,7 @@ Gestiona la **interfaz gráfica**:
 
 - 🎵 Implementar grabación y reproducción de melodías.  
 - 💾 Guardar configuraciones de usuario (tema, volumen, modo).  
-- 🎼 Agregar visualizador de notas (frecuencia y tono).  
-- 🌍 Traducir completamente la interfaz a español.  
+- 🎼 Agregar visualizador de notas (frecuencia y tono).   
 
 ---
 
