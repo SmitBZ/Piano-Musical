@@ -20,15 +20,15 @@
 | Interfaz principal |
 |--------------------|
 | ![Piano View](src/main/resources/guia/vista.png) |
-|--------------------|
+
 | Menú de Opciones   |
 |--------------------|
 | ![Piano View](src/main/resources/guia/opciones.png) |
-|--------------------|
+
 | Temas              |
 |--------------------|
 | ![Piano View](src/main/resources/guia/tema.png) |
-|--------------------|
+
 | Modos de Piano     |
 |--------------------|
 | ![Piano View](src/main/resources/guia/modos.png) |
