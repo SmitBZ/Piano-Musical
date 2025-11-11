@@ -134,7 +134,7 @@ Gestiona la **interfaz gráfica**:
 
 ## 📸 Créditos
 
-- 👨‍💻 **Autor:** [Smit BZ](https://github.com/tuusuario)  
+- 👨‍💻 **Autor:** [Smit BZ](https://github.com/SmitBZ)  
 - 🛠️ **Hecho con:** Java, Maven, Swing, Java Sound API  
 - 🎨 **Inspiración:** El amor por la música digital y el aprendizaje interactivo  
 
