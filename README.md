@@ -2,7 +2,7 @@
 **Simulador de piano digital en Java (Swing + MIDI + Maven)**  
 
 > Un proyecto interactivo que combina sonido MIDI, diseño visual moderno y detección de teclas físicas.  
-> Desarrollado con **Java Swing**, **Java Sound API** y **MindFusion Virtual Keyboard**.  
+> Desarrollado con **Java Swing** y **Java Sound API**.  
 
 ---
 
